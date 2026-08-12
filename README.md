@@ -4,8 +4,7 @@ An interactive Mobile Sales Analysis Dashboard built using Microsoft Power BI.
 
 📸 Dashboard Preview
 
-"Mobile Sales Dashboard" 
-(dashboard.png)
+![Mobile Sales Dashboard](dashboard.png)
 
 📊 Key Insights
 
