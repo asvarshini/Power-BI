@@ -35,6 +35,6 @@ An interactive Mobile Sales Analysis Dashboard built using Microsoft Power BI.
 
 👤 Author
 
-AS Varshini
+ Varshini A S
 
 Power BI | Data Analytics
